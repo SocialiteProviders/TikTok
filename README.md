@@ -44,9 +44,11 @@ return Socialite::driver('tiktok')->redirect();
 # Returned User Fields
 
 - id
+- username
 - union_id
 - name
 - avatar
+
 
 # Reference
 
